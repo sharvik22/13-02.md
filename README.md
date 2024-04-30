@@ -7,6 +7,10 @@
 3. Зашифруйте домашний каталог пользователя с помощью eCryptfs.
 
 ### Решение 1
+![image](https://github.com/sharvik22/13-02.md/assets/136818757/bd8e96d0-f869-4c0d-aa02-ec06b444c0cb)
+
+![image](https://github.com/sharvik22/13-02.md/assets/136818757/d3dc175c-7c0d-4390-b083-0bff83b9c442)
+
 
 ---
 
