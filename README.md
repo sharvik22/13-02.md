@@ -55,6 +55,7 @@ LuskFormat
 
 
 демониторал и завершение работы
+
 ![image](https://github.com/sharvik22/13-02.md/assets/136818757/55836fb2-94fe-4b19-968a-7a78decbad84)
 
 ---
