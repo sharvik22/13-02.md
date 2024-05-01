@@ -36,15 +36,20 @@
 ![image](https://github.com/sharvik22/13-02.md/assets/136818757/ef0ae192-25bd-42e5-879d-5444abac2a9b)
 
 LuskFormat
+
 ![image](https://github.com/sharvik22/13-02.md/assets/136818757/99103c1e-f23d-4fa3-b9dc-25e8ad4bb884)
 
 смонтировал и просмотрел
+
 ![image](https://github.com/sharvik22/13-02.md/assets/136818757/4a978772-3b20-43f1-a28b-153add1910f4)
 
 отформатировал ext4
+
 ![image](https://github.com/sharvik22/13-02.md/assets/136818757/1478e12a-1dd2-4a1d-ad37-c37b2f4acc10)
 
 ![image](https://github.com/sharvik22/13-02.md/assets/136818757/4be90702-a271-43e0-98b3-20944cf02d51)
+
+
 
 
 
