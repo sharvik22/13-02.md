@@ -49,14 +49,13 @@ LuskFormat
 
 ![image](https://github.com/sharvik22/13-02.md/assets/136818757/4be90702-a271-43e0-98b3-20944cf02d51)
 
+смонтировал раздел в папку .secret
+
+![image](https://github.com/sharvik22/13-02.md/assets/136818757/3544860b-f2e6-4092-87d8-cddefbcf3b11)
 
 
-
-
-
-
-
-
+демониторал и завершение работы
+![image](https://github.com/sharvik22/13-02.md/assets/136818757/55836fb2-94fe-4b19-968a-7a78decbad84)
 
 ---
 
