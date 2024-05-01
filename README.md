@@ -11,6 +11,8 @@
 
 ![image](https://github.com/sharvik22/13-02.md/assets/136818757/d3dc175c-7c0d-4390-b083-0bff83b9c442)
 
+создал три файла в директориии /home/cryptouser/
+![image](https://github.com/sharvik22/13-02.md/assets/136818757/24c7bf81-4ee2-4321-91b7-8219e8ef749c)
 
 ---
 
